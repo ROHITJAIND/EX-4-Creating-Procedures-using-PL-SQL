@@ -1,5 +1,6 @@
 # EX-04 Creating Procedures using PL/SQL
-### AIM: To create a procedure using PL/SQL.
+### AIM: 
+To create a procedure using PL/SQL. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  **DATE:** 05.09.2023
 ### Steps:
 - 1. Create employee table with following attributes (empid NUMBER, empname VARCHAR(10), dept VARCHAR(10),salary NUMBER);
 - 2. Create a procedure named as insert_employee data.
